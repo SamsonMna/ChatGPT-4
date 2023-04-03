@@ -153,7 +153,7 @@ with gr.Blocks(
                 value=""
             )
             accordion_msg = gr.HTML(
-                value="🚧 To set System message you will have to refresh the app",
+                value="To set System message you will have to refresh the app",
                 visible=False  # controls whether the component is visible or not
             )
 
